@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e17ced0.css",
-    "main.js": "/static/js/main.de12cbf6.js",
-    "static/js/787.a7075ab3.chunk.js": "/static/js/787.a7075ab3.chunk.js",
-    "index.html": "/index.html",
-    "main.0e17ced0.css.map": "/static/css/main.0e17ced0.css.map",
-    "main.de12cbf6.js.map": "/static/js/main.de12cbf6.js.map",
-    "787.a7075ab3.chunk.js.map": "/static/js/787.a7075ab3.chunk.js.map"
+    "main.css": "/ForumApp/static/css/main.0e17ced0.css",
+    "main.js": "/ForumApp/static/js/main.6e827e75.js",
+    "static/js/787.a7075ab3.chunk.js": "/ForumApp/static/js/787.a7075ab3.chunk.js",
+    "index.html": "/ForumApp/index.html",
+    "main.0e17ced0.css.map": "/ForumApp/static/css/main.0e17ced0.css.map",
+    "main.6e827e75.js.map": "/ForumApp/static/js/main.6e827e75.js.map",
+    "787.a7075ab3.chunk.js.map": "/ForumApp/static/js/787.a7075ab3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e17ced0.css",
-    "static/js/main.de12cbf6.js"
+    "static/js/main.6e827e75.js"
   ]
 }
