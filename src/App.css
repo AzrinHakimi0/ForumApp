@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.ce-chat-list-column{
+  display: none;
+}
+.ce-settings-column{
+  display: none;
+}
+.ce-wrapper{
+  display: none;
+}
+.ce-chat-list-mobile-option{
+  display: none;
+}
+.ce-chat-settings-mobile-option{
+  display: none;
+}
+.ce-chat-title{
+  width: 100vw;
+  justify-content: center !important;
+}
+.ce-chat-title-container{
+  width: 100vw;
+}
+.ce-their-message-sender{
+  padding-left: 5px;
+}
